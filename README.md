@@ -1,8 +1,6 @@
-# research-book
-
 ## Theoretical Research Book
 
-## Usage
+https://antvopilov.github.io/research-book/intro.html
 
 ### Building the book
 
