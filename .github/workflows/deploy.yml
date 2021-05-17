@@ -4,7 +4,7 @@ on:
   # Trigger the workflow on push to main branch
   push:
     branches:
-      - main
+      - master
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
@@ -36,4 +36,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: re/_build/html
+        publish_dir: research_book/_build/html
