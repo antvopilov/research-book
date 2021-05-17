@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../antvopilov/.idea/antvopilov.iml" filepath="$PROJECT_DIR$/../antvopilov/.idea/antvopilov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-gui/.idea/python-gui.iml" filepath="$PROJECT_DIR$/../python-gui/.idea/python-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../research/.idea/research.iml" filepath="$PROJECT_DIR$/../research/.idea/research.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/research-book.iml" filepath="$PROJECT_DIR$/.idea/research-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../system-setup/.idea/system-setup.iml" filepath="$PROJECT_DIR$/../system-setup/.idea/system-setup.iml" />
     </modules>
   </component>
 </project>

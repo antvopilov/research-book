@@ -4,5 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.8 (research-book)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="antvopilov" />
+    <orderEntry type="module" module-name="system-setup" />
+    <orderEntry type="module" module-name="research" />
+    <orderEntry type="module" module-name="python-gui" />
   </component>
 </module>
